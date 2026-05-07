@@ -1,4 +1,4 @@
-# Biodata-CV Qumara Rezky Fadilla
+# Biodata-CV
 
 # Hi there, I'm Qumara Rezky 👋
 
