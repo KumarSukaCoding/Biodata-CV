@@ -57,7 +57,7 @@ Landing page topup dan jasa gaming dengan desain modern.
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KumarSukaCoding&show_icons=true&theme=tokyonight"/>
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarSukaCoding&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KumarSukaCoding&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ Landing page topup dan jasa gaming dengan desain modern.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=KumarSukaCoding&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
